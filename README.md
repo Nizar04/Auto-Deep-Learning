@@ -21,7 +21,7 @@ An interactive web application built with Streamlit that automates the deep lear
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/autodl.git
+git clone https://github.com/Nizar04/Auto-Deep-Learning.git
 cd autodl
 
 # Install requirements
